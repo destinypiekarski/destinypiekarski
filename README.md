@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @destinypiekarski
-- 👀 I’m interested in basketball, the beach, church, and family time.
-- 🌱 I’m currently learning about data sciene. 
+- 👀 I’m interested in basketball, the beach, church activites, and family time.
+- 🌱 I’m currently learning about all things data science.
 - 📫 How to reach me: email at destinypiekarski@icloud.com or twitter at Destinypiekars1. 
 
 <!---
